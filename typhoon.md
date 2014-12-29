@@ -9,10 +9,15 @@ Base:
 * RC Reciever: Spektrum AR610
 * Motors: 4x A2212-13 Brushless Motors (probably)
 * ESCs: 4x 30 Amp Electronic Speed Controllers (ESC's)
-* Props: 10x4.5
+* Props: 10x 4.5
+* Batteries: 2x 5000mAh 3S 20C 11.1v Lithium Ion batteries, hard shelled (about 13-14 minutes flight time with GoPro)
 
 Add Ons:
 * GPS & Compass: Naza GPS (Originally, no gps)
+* Camera: GoPro 3, static mount
+
+Shared:
+* RC Controller: Spektrum DX6i
 
 Comments:
 The typhoon frame is amazing. I have crashed it three times, and it still flies (after manually bending it back into shape.)
