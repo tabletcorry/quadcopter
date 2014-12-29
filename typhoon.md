@@ -14,6 +14,7 @@ Base:
 
 Add Ons:
 * GPS & Compass: Naza GPS (Originally, no gps)
+* Remote configuration: Naza BT module (Originally, no remote config)
 * Camera: GoPro 3, static mount
 
 Shared:
@@ -23,3 +24,5 @@ Comments:
 The typhoon frame is amazing. I have crashed it three times, and it still flies (after manually bending it back into shape.)
 
 The Aeroquad controller is very agile, but more advanced features like altitude hold are extremely incomplete. It could barely hold altitude within in 10m band.
+
+The Naza M controller is much more capable, though also more expensive (also closed source). It does not allow nearly the agility of the Aeroquad controller, but is much more stable and friendly.
